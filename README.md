@@ -18,4 +18,4 @@ Visit: http://localhost:8080/welcome
 ```bash
 mvn clean package
 docker build -t spring-demo .
-```
+```# Testing pipeline trigger
